@@ -42,3 +42,31 @@ SOC Analyst L1 with VAPT experience | SIEM Monitoring | Incident Response | Thre
   <li>Web Application Security: F5 WAF, Brute Force Detection</li>
   <li>Framework & Techniques: MITRE ATT&CK, Threat Hunting, Incident Response</li>
 </ul>
+
+<h2>💻 VAPT Project – PT Victim</h2>
+
+<ul>
+  <li>
+    <strong>Project:</strong> Vulnerability Assessment & Penetration Testing (VAPT)  
+    <strong>Date:</strong> October 2025
+  </li>
+  <li>
+    <strong>Scope:</strong> Web Applications, Backoffice Systems, Mobile Apps (iOS & Android), External IPs
+  </li>
+  <li>
+    <strong>Approach:</strong> Grey-box testing using a combination of manual and automated tools
+  </li>
+  <li>
+    <strong>Tools Used:</strong> Nmap, Nessus, Dirsearch, SQLMap, Burp Suite, Metasploit
+  </li>
+  <li>
+    <strong>Key Findings:</strong>
+    <ul>
+      <li>Broken Access Control on internal backoffice endpoint – Risk: HIGH</li>
+      <li>Recommendations provided for RBAC implementation and continuous monitoring</li>
+    </ul>
+  </li>
+  <li>
+    <strong>Outcome:</strong> Vulnerabilities documented and recommendations delivered to management; ongoing remediation follow-up
+  </li>
+</ul>
