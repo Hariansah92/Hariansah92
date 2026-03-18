@@ -43,7 +43,7 @@ SOC Analyst L1 with VAPT experience | SIEM Monitoring | Incident Response | Thre
   <li>Framework & Techniques: MITRE ATT&CK, Threat Hunting, Incident Response</li>
 </ul>
 
-<h2>💻 VAPT Project – PT Victim</h2>
+<h2>💻 VAPT Project – Confidential Client</h2>
 
 <ul>
   <li>
