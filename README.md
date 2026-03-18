@@ -7,7 +7,14 @@
 <p>
 SOC Analyst L1 with VAPT experience | SIEM Monitoring | Incident Response | Threat Detection
 </p>
-
+## 🔵 SOC Portfolio
+- [Web Recon & Exploit Attempt Detection]
+(https://github.com/Hariansah92/soc-portfolio)
+Hands-on case study including:
+- SIEM detection (Wazuh)
+- Threat intelligence (VirusTotal, AbuseIPDB)
+- Incident response & mitigation
+- 
 <h2>📜 Certifications</h2>
 
 <ul>
