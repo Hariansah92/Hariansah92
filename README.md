@@ -1,96 +1,72 @@
-<h1>
-  Hi, I'm Hariansah 🔐 
-  <img src="https://img.shields.io/badge/CEH-Certified-blue" />
-</h1>
+# Hi, I'm Hariansah 🔐
 
-<p><strong>He/Him</strong></p>
+He/Him | SOC Analyst L1 | VAPT Experience | SIEM Monitoring | Incident Response | Threat Detection  
 
-<p>
-SOC Analyst L1 with VAPT experience | SIEM Monitoring | Incident Response | Threat Detection
-</p>
+---
 
-<hr/>
+### 🔗 Connect with Me
+📧 [Email Me](mailto:harihariansah92@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/hariansah-1283b7366)  
+💼 [SOC Portfolio](https://github.com/Hariansah92/soc-portfolio)  
 
-<h2>🔵 SOC Portfolio</h2>
+---
 
-<ul>
-  <li>
-    <a href="https://github.com/Hariansah92/soc-portfolio">
-      Web Recon & Exploit Attempt Detection
-    </a>
-  </li>
-</ul>
+### 📜 Certifications & Badges
+![CEH](https://img.shields.io/badge/CEH-EC--Council-blue)  
+![SOC Analyst](https://img.shields.io/badge/SOC_Analyst-Level_1-brightgreen)  
+![SIEM](https://img.shields.io/badge/SIEM-Active-blueviolet)  
+![VAPT](https://img.shields.io/badge/VAPT-GreyBox-orange)  
 
-<p>Hands-on case study including:</p>
-<ul>
-  <li>SIEM detection (Wazuh)</li>
-  <li>Threat intelligence (VirusTotal, AbuseIPDB)</li>
-  <li>Incident response & mitigation</li>
-</ul>
+---
 
-<hr/>
+### 🔵 SOC Portfolio – Case Studies
 
-<h2>📜 Certifications</h2>
+**Web Recon & Exploit Attempt Detection**  
+Hands-on case studies including:  
+- ⚡ SIEM detection (Wazuh)  
+- 🔍 Threat intelligence (VirusTotal, AbuseIPDB)  
+- 🛡️ Incident response & mitigation  
 
-<ul>
-  <li>
-    <strong>Certified Ethical Hacker (CEH)</strong> – EC-Council (2025–2026)
-  </li>
-</ul>
+**SOC Analyst L1 – Incident Handling Experience**  
+- **Malicious Recon / Exploit Attempt – Open Case:** Detected reconnaissance & exploit attempts, blocked malicious IPs, enabled WAF protections.  
+- **Web Application Recon – Open Case:** Verified alerts, analyzed directory/path exploitation, updated incident reports.  
+- **Exploit Attempt – Open Case:** Confirmed malicious activity, blocked attacker IPs, documented response actions.  
 
-<h2>🔵 SOC Analyst L1 – Incident Handling Experience</h2>
+---
 
-<ul>
-  <li>
-    <strong>Malicious Recon / Exploit Attempt – Open Case</strong><br/>
-    Detected and analyzed reconnaissance and exploit attempts targeting web applications. 
-    Performed triage, blocked malicious IPs, enabled WAF protections, and documented mitigation recommendations.
-  </li>
-  <li>
-    <strong>Web Application Recon – Open Case</strong><br/>
-    Detected multiple reconnaissance attempts on web application endpoints. 
-    Verified alerts, analyzed potential directory/path exploitation, and updated incident reports.
-  </li>
-  <li>
-    <strong>Exploit Attempt – Open Case</strong><br/>
-    Detected exploit attempts on web application endpoints. 
-    Confirmed malicious activity, blocked attacker IPs, and documented response actions.
-  </li>
-</ul>
+### 💻 VAPT Project – Confidential Client
+**Project:** Vulnerability Assessment & Penetration Testing (VAPT)  
+**Date:** October 2025  
+**Scope:** Web Apps, Backoffice Systems, Mobile Apps (iOS & Android basic), External Infrastructure  
+**Approach:** Grey-box / Black-box / White-box, manual & automated  
 
-<h2>🛠 Tools & Methodologies</h2>
+**Key Findings:**  
+- ⚠️ Broken Access Control on internal backoffice endpoint – Risk: HIGH  
+- Security Misconfiguration, Injection, Vulnerable & Outdated Components  
+- Recommendations for RBAC implementation & continuous monitoring  
 
-<ul>
-  <li><strong>Monitoring & SIEM:</strong> Wazuh, Office 365, Palo Alto</li>
-  <li><strong>Endpoint Security & EDR:</strong> SentinelOne</li>
-  <li><strong>Web Application Security:</strong> F5 WAF, Brute Force Detection</li>
-  <li><strong>Framework & Techniques:</strong> MITRE ATT&CK, Threat Hunting, Incident Response</li>
-</ul>
+**Outcome:** Vulnerabilities documented & reported with remediation follow-up  
 
-<h2>💻 VAPT Project – Confidential Client</h2>
+---
 
-<ul>
-  <li>
-    <strong>Project:</strong> Vulnerability Assessment & Penetration Testing (VAPT)<br/>
-    <strong>Date:</strong> October 2025
-  </li>
-  <li>
-    <strong>Scope:</strong> Web Applications, Backoffice Systems, Mobile Apps (iOS & Android), External Infrastructure
-  </li>
-  <li>
-    <strong>Approach:</strong> Grey-box testing using manual and automated techniques
-  </li>
-  <li>
-    <strong>Tools Used:</strong> Nmap, Nessus, Dirsearch, SQLMap, Burp Suite, Metasploit
-  </li>
-  <li>
-    <strong>Key Findings:</strong>
-    <ul>
-      <li>Broken Access Control on internal backoffice endpoint – Risk: HIGH</li>
-      <li>Recommendations provided for RBAC implementation and continuous monitoring</li>
-    </ul>
-  </li>
-  <li>
-    <strong>Outcome:</strong> Vulnerabilities documented and reported with remediation follow-up
-  </li>
-</ul>
+### 🛠 SOC Analyst Skills
+| Skill | Icon |
+|-------|------|
+| SIEM Monitoring | ⚡ |
+| Endpoint Security | 🛡️ |
+| Threat Hunting | 🔍 |
+| Incident Response | 🚨 |
+
+---
+
+### 🖥 Pentest Tools
+| Tool | Icon |
+|------|------|
+| Nmap | 🖥️ |
+| Nessus | 📊 |
+| Dirsearch | 🔎 |
+| SQLMap | 💾 |
+| Burp Suite | 🕸️ |
+| Metasploit | 🛠️ |
+
+---
