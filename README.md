@@ -81,7 +81,8 @@ Grey-box | Black-box | White-box (Manual & Automated)
 - 💾 SQLMap  
 - 🕸️ Burp Suite  
 - 🛠️ Metasploit  
-- ⚡ Nuclei 
+- ⚡ Nuclei
+- ⚡ OWASP ZAP
 ---
 
 ## 📈 Current Focus
