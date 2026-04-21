@@ -19,29 +19,10 @@ SOC Analyst L1 | SIEM Monitoring | Threat Detection | Incident Response | VAPT E
 
 ---
 
-## 🔵 SOC Portfolio – Case Studies
-
-### 🔍 Security Monitoring & Threat Detection
-- Analyzed security alerts using Wazuh SIEM
-- Performed threat intelligence enrichment using VirusTotal and AbuseIPDB
-- Investigated suspicious activities and confirmed malicious behavior through log correlation
-
-### 🚨 Incident Response (L1)
-- Handled reconnaissance and exploit attempt alerts
-- Investigated web-based scanning and directory probing activities
-- Supported mitigation actions and incident documentation
-
-### 📊 Security Analysis
-- Correlated logs to identify attack patterns
-- Mapped events to MITRE ATT&CK framework
-- Assisted in incident classification and escalation
-- **Web Application Recon**  
-  Analyzed suspicious requests, identified directory/path probing activity, and documented findings
-  
- -Security investigation outputs including SIEM alerts, log analysis, and incident case studies are documented in the SOC portfolio     repository: https://github.com/Hariansah92/soc-portfolio
-
-- **Exploit Attempt Analysis**  
-  Confirmed malicious behavior through log correlation and supported response actions  
+🔵 SOC Portfolio – Case Studies
+⚠️ Exploit Attempt Analysis
+Confirmed malicious behavior through log correlation
+Supported response actions and incident validation
 
 💻 DVWA Web Application Security Assessment (VAPT | OWASP Top 10)
 
