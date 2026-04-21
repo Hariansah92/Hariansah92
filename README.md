@@ -21,16 +21,20 @@ SOC Analyst L1 | SIEM Monitoring | Threat Detection | Incident Response | VAPT E
 
 ## 🔵 SOC Portfolio – Case Studies
 
-### 🔍 Web Recon & Exploit Attempt Detection
-Hands-on case studies involving:
-- SIEM monitoring using Wazuh  
-- Threat intelligence analysis (VirusTotal, AbuseIPDB)  
-- Incident response & mitigation  
+### 🔍 Security Monitoring & Threat Detection
+- Analyzed security alerts using Wazuh SIEM
+- Performed threat intelligence enrichment using VirusTotal and AbuseIPDB
+- Investigated suspicious activities and confirmed malicious behavior through log correlation
 
-### 🚨 SOC Analyst L1 – Incident Handling
-- **Malicious Recon / Exploit Attempt**  
-  Detected reconnaissance and exploit attempts, validated alerts, and supported mitigation actions  
+### 🚨 Incident Response (L1)
+- Handled reconnaissance and exploit attempt alerts
+- Investigated web-based scanning and directory probing activities
+- Supported mitigation actions and incident documentation
 
+### 📊 Security Analysis
+- Correlated logs to identify attack patterns
+- Mapped events to MITRE ATT&CK framework
+- Assisted in incident classification and escalation
 - **Web Application Recon**  
   Analyzed suspicious requests, identified directory/path probing activity, and documented findings  
 
@@ -56,24 +60,22 @@ A web application security assessment was performed on DVWA in a controlled lab 
 Full exploitation screenshots available in DVWA VAPT repository:
 https://github.com/Hariansah92/DVWA-vapt-report
 
-## 🛠 SOC Analyst Skills
-- ⚡ SIEM Monitoring (Wazuh)  
-- 🛡️ Endpoint Security Awareness  
-- 🔍 Threat Hunting (basic)  
-- 🚨 Incident Response (L1)  
-- 📡 Wireshark (Network Analysis)
----
+## 🛠 SOC & Security Tools
+- Wazuh SIEM
+- SentinelOne EDR (basic exposure)
+- Cloudflare WAF
+- Wireshark
+- VirusTotal
+- AbuseIPDB
 
-## 🖥 Pentesting Tools
-- 🖥️ Nmap  
-- 📊 Nessus  
-- 🔎 Dirsearch  
-- 💾 SQLMap  
-- 🕸️ Burp Suite  
-- 🛠️ Metasploit  
-- ⚡ Nuclei
-- ⚡ OWASP ZAP
----
+## 🖥 Penetration Testing Tools
+- Burp Suite
+- SQLMap
+- Nmap
+- Metasploit Framework
+- Dirsearch
+- Nuclei
+- OWASP ZAP
 
 ## 📈 Current Focus
 - Security monitoring & alert triage (SOC operations)
