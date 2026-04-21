@@ -37,7 +37,7 @@ Hands-on case studies involving:
 - **Exploit Attempt Analysis**  
   Confirmed malicious behavior through log correlation and supported response actions  
 
-💻 VAPT Lab Project – DVWA (Simulated Environment)
+💻 DVWA Web Application Security Assessment (VAPT | OWASP Top 10)
 
 A web application security assessment was performed on DVWA in a controlled lab environment.
 
