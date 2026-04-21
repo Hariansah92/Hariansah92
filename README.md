@@ -36,9 +36,8 @@ SOC Analyst L1 | SIEM Monitoring | Threat Detection | Incident Response | VAPT E
 - Mapped events to MITRE ATT&CK framework
 - Assisted in incident classification and escalation
 - **Web Application Recon**  
-  Analyzed suspicious requests, identified directory/path probing activity, and documented findings  
-## 📸 Evidence
-
+  Analyzed suspicious requests, identified directory/path probing activity, and documented findings
+  
 Security investigation outputs including SIEM alerts, log analysis, and incident case studies are documented in the SOC portfolio repository:
 https://github.com/Hariansah92/soc-portfolio
 
