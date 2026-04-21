@@ -37,34 +37,24 @@ Hands-on case studies involving:
 - **Exploit Attempt Analysis**  
   Confirmed malicious behavior through log correlation and supported response actions  
 
----
+💻 VAPT Lab Project – DVWA (Simulated Environment)
 
-## 💻 VAPT Project – Confidential Client
+A web application security assessment was performed on DVWA in a controlled lab environment.
 
-**Project:** Vulnerability Assessment & Penetration Testing (VAPT)  
-**Date:** October 2025  
+### 🔍 Key Findings:
+- SQL Injection (Critical) – Unauthorized database access via input manipulation
+- Command Injection (Critical) – Remote command execution on host system
+- Cross-Site Scripting (XSS) (High) – Client-side script execution
+- Brute Force Attack (High) – Authentication bypass via repeated login attempts
 
-**Scope:**  
-- Web Applications  
-- Backoffice Systems  
-- Mobile Apps (basic testing)  
-- External Infrastructure  
-
-**Approach:**  
-Grey-box | Black-box | White-box (Manual & Automated)
-
-### ⚠️ Key Findings
-- Broken Access Control on internal backoffice endpoint (**High Risk**)  
-- Security Misconfiguration  
-- Injection vulnerabilities  
-- Vulnerable & outdated components  
-
-### ✅ Outcome
-- Vulnerabilities documented and reported  
-- Remediation recommendations provided  
-- Follow-up validation conducted  
-
----
+### 📊 Outcome:
+- All vulnerabilities validated with Proof of Concept (PoC)
+- Security impact analyzed based on OWASP Top 10
+- Remediation recommendations provided for each finding
+  
+### 📸 Evidence:  
+Full exploitation screenshots available in DVWA VAPT repository:
+https://github.com/Hariansah92/DVWA-vapt-report
 
 ## 🛠 SOC Analyst Skills
 - ⚡ SIEM Monitoring (Wazuh)  
@@ -86,7 +76,8 @@ Grey-box | Black-box | White-box (Manual & Automated)
 ---
 
 ## 📈 Current Focus
-- Log analysis & alert triage  
-- Threat detection & correlation  
-- SOC workflow improvement  
-- Continuous learning in blue team & detection engineering  
+- Security monitoring & alert triage (SOC operations)
+- Threat detection & log correlation
+- MITRE ATT&CK-based analysis
+- Web application penetration testing (OWASP Top 10)
+- Detection engineering fundamentals
