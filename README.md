@@ -38,8 +38,7 @@ SOC Analyst L1 | SIEM Monitoring | Threat Detection | Incident Response | VAPT E
 - **Web Application Recon**  
   Analyzed suspicious requests, identified directory/path probing activity, and documented findings
   
-Security investigation outputs including SIEM alerts, log analysis, and incident case studies are documented in the SOC portfolio repository:
-https://github.com/Hariansah92/soc-portfolio
+ -Security investigation outputs including SIEM alerts, log analysis, and incident case studies are documented in the SOC portfolio     repository: https://github.com/Hariansah92/soc-portfolio
 
 - **Exploit Attempt Analysis**  
   Confirmed malicious behavior through log correlation and supported response actions  
